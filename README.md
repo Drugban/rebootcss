@@ -4,8 +4,6 @@
 
 </p>
 
-[![npm](https://img.shields.io/npm/v/rebootcss?logo=npm)](https://www.npmjs.com/package/rebootcss)
-[![CSS gzip size](https://img.badgesize.io/Drugban/rebootcss/main/dist/chaos.min.css?compression=gzip&label=CSS%20gzip%20size)](https://img.badgesize.io/Drugban/rebootcss/main/dist/chaos.min.css)
 
 Эта библиотека создана для упрошения сброса стилей
 
